@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://vk.com/sfooo">
-    <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
+    <img src="https://img.shields.io/badge/Vk-white?style=for-the-badge&logo=vk&logoColor=blue" alt="VK Badge"/>
   </a>
   <a href="https://steamcommunity.com/id/SPITFIREOOO/">
     <img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam&logoColor=white" alt="Ыеуфь Badge"/>
