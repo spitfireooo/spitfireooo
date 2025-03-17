@@ -15,6 +15,7 @@
   <a href="https://steamcommunity.com/id/SPITFIREOOO/">
     <img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam&logoColor=white" alt="Ыеуфь Badge"/>
   </a>
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=spitfireooo&style=flat-square&color=blue" alt=""/>
 </div>
 
