@@ -76,4 +76,4 @@ I am a Full Stack Web & Game Dev Developer <img src="https://media.giphy.com/med
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spitfireooo)](https://git.io/streak-stats)
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spitfireooo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spitfireooo&layout=compact))](https://github.com/anuraghazra/github-readme-stats)
