@@ -23,7 +23,7 @@
 
 ### :question: About Me :
 
-I am a Full Stack Web & Game Dev Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Full Stack Web & Game Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 ---
 
